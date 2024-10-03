@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JSON data file (if you want to exclude it)
+football_clubs.json
